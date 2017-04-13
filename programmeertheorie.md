@@ -37,7 +37,13 @@ This might look like:
 
 ## Activating automatic analysis
 
+By flipping the switch under configuration, everytime the code is pushed, and analysis is performed.
 
+![BCH Automatic](automatic.png)
+
+In your commit history you see the feedback from Better Code Hub:
+
+![BCH Commit](commit.png)
 
 ## Rank
 
