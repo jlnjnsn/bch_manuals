@@ -37,7 +37,7 @@ This might look like:
 
 ## Activating automatic analysis
 
-By flipping the switch under configuration, everytime the code is pushed, and analysis is performed.
+By flipping the switch under configuration, everytime the code is pushed, an analysis is performed.
 
 ![BCH Automatic](automatic.png)
 
