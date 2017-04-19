@@ -21,7 +21,7 @@ Better Code Hub analyses all the code that is in your repository. This might inc
 
 First do an initial analysis of your repository, so the "Analysis configuration" option becomes available. Then you can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
 
-![BCH Config](yml.png)
+![BCH Config](images/yml.png)
 
 This might look like:
 
@@ -39,25 +39,25 @@ This might look like:
 
 By flipping the switch under configuration, everytime the code is pushed, an analysis is performed.
 
-![BCH Automatic](automatic.png)
+![BCH Automatic](images/automatic.png)
 
 In your commit history you see the feedback from Better Code Hub:
 
-![BCH Commit](commit.png)
+![BCH Commit](images/commit.png)
 
 ## Rank
 
-![BCH Grade](grade.png)
+![BCH Grade](images/grade.png)
 
 ## Task list
 
 Create a task list of problem sections in your code. You can use the task list tool within Better Code Hub:
 
-![BCH Task list](tasklist.png)
+![BCH Task list](images/tasklist.png)
 
 See which tasks have the highest impact on the guideline. (Not all problems have to be fixed.) By selecting the tasks, the guideline gives you a prediction:
 
-![BCH Guideline](guideline.png)
+![BCH Guideline](images/guideline.png)
 
 See how the green bar moved past the yellow line after selecting a task.
 
@@ -73,7 +73,7 @@ Add the Better Code Hub status badge to the bottom of your **README.MD** (so coo
 
 You can find the Markdown code under settings:
 
-![BCH Settings](settings.png)
+![BCH Settings](images/settings.png)
 
 ## Note
 
